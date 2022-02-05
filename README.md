@@ -1,4 +1,4 @@
 coloringlives
 =============
 
-website for (https://colouringlives.org)[colouringlives] NGO
+website for [Colouringlives](https://colouringlives.org) NGO
