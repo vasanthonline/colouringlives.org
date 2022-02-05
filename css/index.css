@@ -69,6 +69,15 @@ body {
 	background:rgb(238,238,238);
 }
 
+.jumbotron.plan {
+	background: cadetblue;
+	color: #fff;
+}
+.jumbotron.plan a {
+  color: #fff;
+  text-decoration: underline;
+}
+
 #contactus{
   margin-bottom: 10px;
 }
